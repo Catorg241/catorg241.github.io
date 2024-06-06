@@ -40,39 +40,39 @@ IEEE Transactions on Visualization and Computer Graphics, 2024.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/FMLens.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
-    [FMLens: Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments](https://ieeexplore.ieee.org/document/10509776)
+[FMLens: Towards Better Scaffolding the Process of Fund Manager Selection in Fund Investments](https://ieeexplore.ieee.org/document/10509776)
 
-    Longfei Chen, Chen Cheng, **He Wang**, Xiyuan Wang, Yun Tian, Xuanwu Yue, Wong Kam-Kwai, Haipeng Zhang, Suting Hong, Quan Li
+Longfei Chen, Chen Cheng, **He Wang**, Xiyuan Wang, Yun Tian, Xuanwu Yue, Wong Kam-Kwai, Haipeng Zhang, Suting Hong, Quan Li
 
-    IEEE Transactions on Visualization and Computer Graphics, 2024.
-  </div>
+IEEE Transactions on Visualization and Computer Graphics, 2024.
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/FSLens.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
-    [FSLens: A Visual Analytics Approach to Evaluating and Optimizing the Spatial Layout of Fire Stations](https://ieeexplore.ieee.org/document/10295565)
+[FSLens: A Visual Analytics Approach to Evaluating and Optimizing the Spatial Layout of Fire Stations](https://ieeexplore.ieee.org/document/10295565)
 
-    Longfei Chen, **He Wang**, Yang Ouyang, Yang Zhou, Naiyu Wang, Quan Li
+Longfei Chen, **He Wang**, Yang Ouyang, Yang Zhou, Naiyu Wang, Quan Li
 
-    IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
-  </div>
+IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/DiagnosisAssistant.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
-    [Leveraging Historical Medical Records as a Proxy via Multimodal Modeling and Visualization to Enrich Medical Diagnostic Learning](https://ieeexplore.ieee.org/document/10295394)
+[Leveraging Historical Medical Records as a Proxy via Multimodal Modeling and Visualization to Enrich Medical Diagnostic Learning](https://ieeexplore.ieee.org/document/10295394)
 
-    Yang Ouyang, Yuchen Wu, He Wang, Chenyang Zhang, Furui Cheng, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
+Yang Ouyang, Yuchen Wu, He Wang, Chenyang Zhang, Furui Cheng, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
 
-    IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
-  </div>
+IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
+</div>
 </div>
 
-- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://dl.acm.org/doi/10.1145/3565698.3565765), Yun Tian, **He Wang**, Laixin Xie, Xiaojuan Ma, and Quan Li., **Chinese CHI'22**
+- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://dl.acm.org/doi/10.1145/3565698.3565765), Yun Tian, **He Wang**, Laixin Xie, Xiaojuan Ma, and Quan Li, **Chinese CHI'22**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
