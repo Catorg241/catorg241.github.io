@@ -31,12 +31,11 @@ My research interests encompass data visualization, data-centric AI, and eXplain
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/KMTLabeler.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-KMTLabeler: An Interactive Knowledge-Assisted Labeling Tool for Medical Text Classification
+[KMTLabeler: An Interactive Knowledge-Assisted Labeling Tool for Medical Text Classification](https://ieeexplore.ieee.org/document/10540286)
 
 **He Wang**, Yang Ouyang, Yuchen Wu, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
 
 IEEE Transactions on Visualization and Computer Graphics, 2024.
-[**PDF**](https://ieeexplore.ieee.org/document/10540286)
 
 </div>
 </div>
