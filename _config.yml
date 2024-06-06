@@ -12,22 +12,22 @@ repository               : "Catorg241/catorg241.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-0NP86M3PSP" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : 4JX3d0qAr7nRDIYjCBrgrM9xWoydPJZxtFaa2qIBuE8 # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 2AB89D1B1138BFF7F19E3FC008061B4C # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : "4JX3d0qAr7nRDIYjCBrgrM9xWoydPJZxtFaa2qIBuE8" # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : "2AB89D1B1138BFF7F19E3FC008061B4C" # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "He Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/he.jpg"
   bio              : "ShanghaiTech University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "catorg@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Catorg241" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0003-2550-6139" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
