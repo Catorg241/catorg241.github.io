@@ -69,7 +69,7 @@ IEEE Transactions on Visualization and Computer Graphics (VIS 2023).
 </div>
 </div>
 
-- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://dl.acm.org/doi/10.1145/3565698.3565765), Yun Tian, **He Wang**, Laixin Xie, Xiaojuan Ma, Quan Li, **Chinese CHI'22**.
+- [VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization](https://dl.acm.org/doi/10.1145/3565698.3565765), Yun Tian, **He Wang**, Laixin Xie, Xiaojuan Ma, Quan Li. Chinese CHI'22.
 
 # 📖 Educations
 - *2021.09 - present*, **Master**, Computer Science and Technology, ShanghaiTech University. 
